@@ -8,6 +8,6 @@ The keras model used for the classification is the following:
 
 Obtaining an accuracy of 98.75% in the training set.
 
-In the Code folder two scripts can be found:
+Code folder contains:
 - DataLoader.py --> loads and standardizes the dataset.
 - Classifier.py --> creates and trains the model, it also allows its visualization and generates a csv with the predictions for the submission of the competition.
