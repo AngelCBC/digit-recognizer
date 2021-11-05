@@ -46,6 +46,7 @@ with open('submission.csv','w', encoding='UTF8') as csv_predicted:
   writer.writerow(header)
   for row in data:
     writer.writerow(row)
+    
 
 '''
 ACBC
